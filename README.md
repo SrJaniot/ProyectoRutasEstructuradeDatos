@@ -8,6 +8,8 @@ Esta aplicación permite gestionar rutas entre ciudades en Colombia usando una e
 ## Integrantes
 - Esteban Francisco Janiot Rivera -2191593
 - Santiago Moreno - 2221879
+- Harold Peña - 2232733
+- Juan David Alfonso perez -2232878
 
 
 
