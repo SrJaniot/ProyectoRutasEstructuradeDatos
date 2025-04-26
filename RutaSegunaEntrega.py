@@ -2,7 +2,6 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 from bigtree import Node, print_tree
 
-# Este código es una implementación de una aplicación GUI para gestionar rutas entre ciudades utilizando un árbol.
 
 # Esteban Francisco Janiot Rivera  cod -2191593
 
