@@ -42,7 +42,7 @@ python RutasConArbolesGUI.py
    - Ingresa una ciudad de **origen** y una de **destino**.
    - Haz clic en **Agregar Ruta**.
 
-2. **Consultar si existe una ruta: (ueva funcionalidad) **
+2. **Consultar si existe una ruta: (nueva funcionalidad)**
    - Selecciona una ciudad de **origen** y una de **destino** desde los menús desplegables.
    - Haz clic en **Consultar Ruta**.
 
