@@ -42,11 +42,11 @@ python RutasConArbolesGUI.py
    - Ingresa una ciudad de **origen** y una de **destino**.
    - Haz clic en **Agregar Ruta**.
 
-2. **Consultar si existe una ruta:**
+2. **Consultar si existe una ruta: (ueva funcionalidad) **
    - Selecciona una ciudad de **origen** y una de **destino** desde los menús desplegables.
    - Haz clic en **Consultar Ruta**.
 
-3. **Visualizar la estructura del árbol:**
+3. **Visualizar la estructura del árbol: (nueva funcionalidad)**
    - Presiona el botón **Visualizar Árbol (Consola)** para ver la jerarquía de rutas en la consola.
 
 ##  Ejemplo de árbol
