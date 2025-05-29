@@ -2,6 +2,15 @@
 
 Este proyecto permite calcular rutas óptimas utilizando algoritmos de grafos sobre mapas geográficos. Es ideal para aplicaciones de logística, transporte y análisis de redes viales.
 
+
+
+## Integrantes
+- Esteban Francisco Janiot Rivera -2191593
+- Santiago Moreno - 2221879
+- Harold Peña - 2232733
+- Juan David Alfonso perez -2232878
+
+  
 ## Características
 
 - Carga y visualización de mapas geográficos.
