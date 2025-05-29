@@ -2,6 +2,12 @@
 
 Este proyecto permite calcular rutas óptimas utilizando algoritmos de grafos sobre mapas geográficos. Es ideal para aplicaciones de logística, transporte y análisis de redes viales.
 
+## Informe y análisis
+[Descargar Informe en PDF](ProyectoFinal-Grafos.pdf)
+
+
+
+
 
 
 ## Integrantes
