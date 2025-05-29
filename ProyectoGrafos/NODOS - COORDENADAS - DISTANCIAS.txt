@@ -1,0 +1,138 @@
+NODOS - COORDENADAS
+
+entrada_27,7.138782895734074, -73.12030262492222
+
+1,7.139359540613165, -73.12022559269512
+
+2,7.1393051522668936, -73.11921505181884
+
+entrada_30,7.139267939758812, -73.117372422757
+
+jardin_botanico,7.140316535599101, -73.11615201766051
+
+3,7.140542755195885, -73.11604741151388
+
+4,7.141538952340641, -73.11715392992916
+
+5,7.141649184409242, -73.11732826309564
+
+6,7.14171618988263, -73.11811721996105
+
+7,7.142076994640137, -73.1185350709091
+
+8,7.142058004923151, -73.11867860749432
+
+9,7.141504137826481, -73.11921447745253
+
+bienestar,7.141459828429506, -73.11990664282064
+
+11,7.141649725812242, -73.12038509810468
+
+escuela_industrial,7.141646392175976, -73.12072907374994
+
+13,7.1421093378521645, -73.12042561645504
+
+14,7.142455605860759, -73.12070252132399
+
+15,7.1425760468442485, -73.12104770399696
+
+16,7.142628739764537, -73.12189359120657
+
+17,7.1423012908043, -73.12234877714894
+
+18,7.1418044712444, -73.12290258671219
+
+19,7.141112196255857, -73.12325442559549
+
+20,7.140856701491769, -73.12328124768437
+
+entrada_25,7.139994405609234, -73.12307203539112
+
+21,7.1396963276420875, -73.12297547587114
+
+22,7.139653745059505, -73.12115693824506
+
+23,7.140468136264448, -73.12117839591617
+
+centic,7.140452167823387, -73.1215539051605
+
+biblioteca,7.14048942751833, -73.12092090386292
+
+26,7.14040958531117, -73.12025035164092
+
+auditorio,7.139797461259854, -73.12024498722315
+
+estadio_atletismo,7.140711095418359, -73.11921697027725
+
+
+DISTANCIA ENTRE COORDENADAS:
+
+red.agregar_arista("entrada_27", "1", 56.23)
+
+red.agregar_arista("1", "2", 112.75)
+
+red.agregar_arista("1", "auditorio", 48.74)
+
+red.agregar_arista("2", "entrada_30", 203.64)
+
+red.agregar_arista("2", "estadio_atletismo", 157.30)
+
+red.agregar_arista("entrada_30", "jardin_botanico", 178.22)
+
+red.agregar_arista("jardin_botanico", "3", 27.39)
+
+red.agregar_arista("3", "4", 164.79)
+
+red.agregar_arista("4", "5", 23.57)
+
+red.agregar_arista("5", "6", 87.27)
+
+red.agregar_arista("6", "7", 61.10)
+
+red.agregar_arista("7", "8", 15.59)
+
+red.agregar_arista("8", "9", 85.66)
+
+red.agregar_arista("9", "bienestar", 75.78)
+
+red.agregar_arista("9", "estadio_atletismo", 87.81)
+
+red.agregar_arista("bienestar", "11", 57.11)
+
+red.agregar_arista("11", "escuela_industrial", 37.76)
+
+red.agregar_arista("escuela_industrial", "18", 240.12)
+
+red.agregar_arista("11", "13", 50.96)
+
+red.agregar_arista("13", "14", 48.97)
+
+red.agregar_arista("14", "15", 40.70)
+
+red.agregar_arista("15", "16", 92.95)
+
+red.agregar_arista("16", "17", 62.30)
+
+red.agregar_arista("17", "18", 82.47)
+
+red.agregar_arista("18", "19", 85.77)
+
+red.agregar_arista("19", "20", 28.36)
+
+red.agregar_arista("20", "entrada_25", 98.49)
+
+red.agregar_arista("entrada_25", "21", 34.70)
+
+red.agregar_arista("21", "22", 201.03)
+
+red.agregar_arista("22", "23", 91.70)
+
+red.agregar_arista("23", "centic", 41.46)
+
+red.agregar_arista("23", "biblioteca", 28.38)
+
+red.agregar_arista("biblioteca", "26", 74.49)
+
+red.agregar_arista("26", "auditorio", 68.23)
+
+
